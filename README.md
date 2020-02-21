@@ -1,4 +1,4 @@
-# Deep Learning and EHRs 
+# Deep Learning papers in Electronic Health Records (EHR)
 
 
 Curated list of interesting papers for electronic health records (EHR) mining, machine learning, and deep learning.
