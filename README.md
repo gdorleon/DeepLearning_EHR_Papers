@@ -6,7 +6,7 @@ Curated list of interesting papers for electronic health records (EHR) mining, m
 
 ## Background
 
-Over the past decade, the volume of EHR has exploded. This data has great potential. Thanks to advances in machine learning and deep learning techniques, health records have been converted into mathematical representation. As part of my thesis, I create this collection of interesting papers on various EHR topics - recent research trends, applications to predict patient outcomes, visualization of complex data.
+Over the past decade, the volume of EHR has exploded.Thanks to advances in machine learning and deep learning techniques, health records have been converted into mathematical representation. As part of my thesis, I create this collection of interesting papers on various EHR topics - recent research trends, applications to predict patient outcomes, visualization of complex data.
 
 ## Contents
 - [Survey](#survey)
